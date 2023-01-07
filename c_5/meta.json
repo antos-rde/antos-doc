@@ -1,0 +1,15 @@
+{
+    "name": "Localization and language",
+    "entries": [
+        {
+            "path": "book:///c_5/s_0",
+            "type": "Section"
+        },
+        {
+            "path": "book:///c_5/s_1",
+            "type": "Section"
+        }
+    ],
+    "cnt": 2,
+    "meta": true
+}

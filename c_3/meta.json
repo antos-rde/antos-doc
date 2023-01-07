@@ -1,0 +1,15 @@
+{
+    "name": "Application development with AntOSDK",
+    "entries": [
+        {
+            "path": "book:///c_3/s_0",
+            "type": "Section"
+        },
+        {
+            "path": "book:///c_3/s_1",
+            "type": "Section"
+        }
+    ],
+    "cnt": 2,
+    "meta": true
+}

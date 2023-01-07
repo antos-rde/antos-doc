@@ -1,0 +1,31 @@
+{
+    "name": "AntOS v1.0.0-a",
+    "entries": [
+        {
+            "path": "book:///c_0",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_1",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_2",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_3",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_4",
+            "type": "Chapter"
+        },
+        {
+            "path": "book:///c_5",
+            "type": "Chapter"
+        }
+    ],
+    "cnt": 6,
+    "meta": true
+}

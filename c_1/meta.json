@@ -1,0 +1,23 @@
+{
+    "name": "AntOS REST-based API Specification",
+    "entries": [
+        {
+            "path": "book:///c_1/s_0",
+            "type": "Section"
+        },
+        {
+            "path": "book:///c_1/s_1",
+            "type": "Section"
+        },
+        {
+            "path": "book:///c_1/s_2",
+            "type": "Section"
+        },
+        {
+            "path": "book:///c_1/s_3",
+            "type": "Section"
+        }
+    ],
+    "cnt": 4,
+    "meta": true
+}

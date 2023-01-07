@@ -1,0 +1,15 @@
+{
+    "name": "Build and installation",
+    "entries": [
+        {
+            "path": "book:///c_0/s_0",
+            "type": "Section"
+        },
+        {
+            "path": "book:///c_0/s_1",
+            "type": "Section"
+        }
+    ],
+    "cnt": 2,
+    "meta": true
+}
